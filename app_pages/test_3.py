@@ -1,5 +1,5 @@
 import streamlit as st
 import pandas as pd
 
-st.markdown("# Page 3")
-st.sidebar.header("Page 3")
+st.markdown("# Live Trading")
+st.sidebar.header("Live Trading")
